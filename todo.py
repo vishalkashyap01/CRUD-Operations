@@ -1,4 +1,5 @@
 # add task to list - function
+# version - 1.0.3
 
 def add(li):
     task = input("write task to add : ")
