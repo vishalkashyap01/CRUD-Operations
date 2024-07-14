@@ -2,8 +2,8 @@ Certainly! Here's a sample `README.md` file for a Todo list program implemented 
 
 ---
 
-# Todo List Application 1.0.2
-# Version - 1.0.2
+# Todo List Application 1.2.0 (Python)
+# Version - 1.2.0
 
 This is a simple Todo list application written in Python using PyCharm.
 
@@ -76,7 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-## Todo List Application 2.0.1
+## Todo List Application 2.0.1 (Java)
 # Version - 2.0.1
 
 # Overview
