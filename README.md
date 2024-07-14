@@ -2,8 +2,8 @@ Certainly! Here's a sample `README.md` file for a Todo list program implemented 
 
 ---
 
-# Todo List Application 1.2.0 (Python)
-# Version - 1.2.0
+# Todo List Application 1.0.5 (Python)
+# Version - 1.0.5
 
 This is a simple Todo list application written in Python using PyCharm.
 
